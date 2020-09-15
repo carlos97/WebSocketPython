@@ -1,2 +1,2 @@
 # WebSocketPython
-websocket usado para enviar dator obtenidos mediante un archivo CSV
+websocket usado para enviar datos obtenidos mediante un archivo CSV
